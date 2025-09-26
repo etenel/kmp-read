@@ -1,0 +1,25 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1920' viewBox='0 0 1080 1920'>
+<style>
+text{font-family:'DejaVu Sans',sans-serif;}
+.title{font-size:64px;fill:white;font-weight:bold;}
+.section-title{font-size:42px;fill:#333;font-weight:600;}
+.section-body{font-size:32px;fill:#555;}
+</style>
+<rect x='40' y='40' width='1000' height='1840' fill='#f5f5f5' stroke='#3c3c3c' stroke-width='4' rx='36'/>
+<rect x='40' y='40' width='1000' height='160' fill='#508ce0' rx='32'/>
+<text x='80' y='120' class='title'>书源列表</text>
+<rect x='80' y='240' width='920' height='200' fill='#ffffff' stroke='#3c3c3c' stroke-width='3' rx='28'/>
+<text x='120' y='320' class='section-title'>顶部工具栏</text>
+<text x='120' y='380' class='section-body'>返回 · 添加书源 · 搜索</text>
+<rect x='80' y='480' width='920' height='240' fill='#fcfcfc' stroke='#3c3c3c' stroke-width='3' rx='28'/>
+<text x='120' y='560' class='section-title'>书源筛选</text>
+<text x='120' y='620' class='section-body'>开关: 可用 / 已失效 / 自建</text>
+<text x='120' y='680' class='section-body'>排序: 更新速度 · 书籍数量</text>
+<rect x='80' y='760' width='920' height='320' fill='#ffffff' stroke='#3c3c3c' stroke-width='3' rx='28'/>
+<text x='120' y='840' class='section-title'>书源卡片</text>
+<text x='120' y='900' class='section-body'>源名称 · 支持格式 · 更新频率</text>
+<text x='120' y='960' class='section-body'>延迟、可访问性指示灯</text>
+<rect x='80' y='1120' width='920' height='220' fill='#e5ecfa' stroke='#3c3c3c' stroke-width='3' rx='28'/>
+<text x='120' y='1200' class='section-title'>批量操作区</text>
+<text x='120' y='1260' class='section-body'>全选 · 启用 · 禁用 · 删除</text>
+</svg>
